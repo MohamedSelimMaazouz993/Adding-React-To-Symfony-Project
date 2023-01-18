@@ -1,6 +1,6 @@
 # Adding-React-To-Symfony-Project
 
-### 1) composer require symfony/webpack-encore-bundle & 
+### 1) composer require symfony/webpack-encore-bundle 
 ### 2) now we edit webpack.config.js File and  uncomment //.enableReactPreset() ( line 70 for me ) to .enableReactPreset()
 ### 3) npm install or yarn install ( if you use yarn in the place of npm )
 ### 4) yarn add @babel/preset-react@^7.0.0 --dev
