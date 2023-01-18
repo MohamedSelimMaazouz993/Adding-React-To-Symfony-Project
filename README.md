@@ -9,5 +9,5 @@
 ### 7) npm install --save react react-dom react-dom-router
 ### 8) npm install --save react
 ### 9) encore dev --watch (again) 
-### 10) symfony serve-d ( in a seperater terminal ) 
+### 10) symfony serve-d ( in a second terminal ) 
 ### And now you are good to go :D Enjoy !
